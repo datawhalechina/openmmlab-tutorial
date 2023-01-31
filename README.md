@@ -29,7 +29,7 @@ B 阶段：针对 mmdeploy 对 mmdetection 进行结合，展开介绍有关部�
 ## 💡教程视频观看地址
 [完整视频合集](https://space.bilibili.com/431850986/channel/collectiondetail?sid=743765)
 
-## 💡仓库文件介绍
+## 💡仓库文件介绍【请先阅读！】
 
 - notebook 
 
@@ -41,7 +41,7 @@ B 阶段：针对 mmdeploy 对 mmdetection 进行结合，展开介绍有关部�
 
 - learning-material.md
 
-分享有关 OpenMMLab 官方与非官方的相关资料合集
+分享有关 OpenMMLab 官方与非官方的相关资料合集，包括官方网站、开源库合集、官方视频资料、公众号、非官方生态链等等。
 
 - download_openmmlab.sh
 
