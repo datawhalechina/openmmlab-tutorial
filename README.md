@@ -26,10 +26,15 @@ B 阶段：针对 mmdeploy 对 mmdetection 进行结合，展开介绍有关部�
 
 完成第一阶段后已可以看懂关键的config用法与基本的项目跑通与结果测试；其他下游库利用类似方法可进行环境配置与各config算法的调通。
 
+## 教程视频观看地址：
+[完整视频合集](https://space.bilibili.com/431850986/channel/collectiondetail?sid=743765)
+
 ## 贡献
 |贡献者|职责|简介|
 |  ----  | ----  |  ----  |
 |散步（卢雨畋）|教程出品与视频录制|[github](https://github.com/sanbuphy)|
+
+
 如果你想对项目部分做出修正与补充，欢迎提交 pr，有好的想法也欢迎联系我，我的邮箱是 physicoada@gmail.com
 
 
