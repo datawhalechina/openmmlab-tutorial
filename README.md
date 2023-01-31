@@ -32,13 +32,20 @@ B 阶段：针对 mmdeploy 对 mmdetection 进行结合，展开介绍有关部�
 ## 💡仓库文件介绍
 
 - notebook 
+
 有关教程资料文件都放在这
 
 - tools
+
 有关教程用到的一些有用的工具都放在这
 
 - learning-material.md
+
 分享有关 OpenMMLab 官方与非官方的相关资料合集
+
+- download_openmmlab.sh
+
+下载工具，方便选择想要下载的openmmlab下游库（感谢`三木君`对本文件mmdeploy部分的修复）
 
 ## 贡献
 |贡献者|职责|简介|
