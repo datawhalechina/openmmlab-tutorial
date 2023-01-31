@@ -26,10 +26,10 @@ B 阶段：针对 mmdeploy 对 mmdetection 进行结合，展开介绍有关部�
 
 完成第一阶段后已可以看懂关键的config用法与基本的项目跑通与结果测试；其他下游库利用类似方法可进行环境配置与各config算法的调通。
 
-## 教程视频观看地址：
+## 💡教程视频观看地址
 [完整视频合集](https://space.bilibili.com/431850986/channel/collectiondetail?sid=743765)
 
-## 仓库文件介绍：
+## 💡仓库文件介绍
 
 - notebook 
 有关教程资料文件都放在这
