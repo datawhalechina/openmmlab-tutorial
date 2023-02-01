@@ -81,20 +81,22 @@ then
     for line in  ${download_list[@]}
     do
         git clone https://$download_source.com/open-mmlab/$line.git
-        if [ $line == "mmdeploy"]
+        if [ $line == "mmdeploy" ]
         then
         # https://mmdeploy.readthedocs.io/en/latest/01-how-to-build/build_from_source.html
             cd $line && git submodule update --init --recursive && cd ..
+        fi
     done
 else
     echo "Start download all files of openmmlab:[by $download_way]"
     for line in  ${download_list[@]}
     do
         git clone git@$download_source.com:open-mmlab/$line.git
-        if [ $line == "mmdeploy"]
+        if [ $line == "mmdeploy" ]
         then
         # https://mmdeploy.readthedocs.io/en/latest/01-how-to-build/build_from_source.html
             cd $line && git submodule update --init --recursive && cd ..
+        fi
     done
 fi
 echo ""
